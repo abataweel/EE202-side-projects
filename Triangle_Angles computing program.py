@@ -1,4 +1,4 @@
-#Name:Ahmed Bataweek
+#Name:Ahmed Bataweel
 #ID:2436391
 from math import sqrt,acos,degrees
 
